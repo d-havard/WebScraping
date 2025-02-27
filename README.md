@@ -60,4 +60,4 @@ If you want to change the path of the file or the default name, follow the nexts
 
 This is for changing the path of the Excel file and the name of the file.
 
-For exemple : E:\\Stage\\Virtual_game\\WebScraping\\dataFormatts.xlsx create the file dataFormatts the the CD E: and the folder WebScraping.
+For exemple : \dataFormatts.xlsx create the file dataFormatts the the CD E: and the folder WebScraping.
